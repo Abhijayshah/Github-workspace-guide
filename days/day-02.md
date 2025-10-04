@@ -1,4 +1,4 @@
-# Day 2: Git Basics - Local Setup 💻
+<!-- # Day 2: Git Basics - Local Setup 💻
 
 ## 📋 Overview
 
@@ -500,4 +500,4 @@ Take a moment to reflect on today's learning:
 
 💡 **Remember**: "The expert in anything was once a beginner." - Helen Hayes
 
-**Congratulations! You now have Git running on your computer and understand the basics of version control. Tomorrow, we'll connect your local repository to GitHub and learn about remote repositories. You're building real developer skills! 🎉**
+**Congratulations! You now have Git running on your computer and understand the basics of version control. Tomorrow, we'll connect your local repository to GitHub and learn about remote repositories. You're building real developer skills! 🎉** -->
